@@ -9,7 +9,7 @@ Backend engineer at 한국딥러닝, building the backend of Vision-LLM Document
 | 기간 | 회사 | 역할 |
 |---|---|---|
 | 2025.11 부터 현재 | [한국딥러닝](https://koreadeep.com) | Backend Engineer. Document AI 제품 (DEEP Agent, DEEP Parser) |
-| 2022.08 부터 2025.11 | 시선AI (구 씨유박스) | Backend Engineer, AI Lab. 영상 AI 보안과 인증 |
+| 2022.08 부터 2025.11 | [시선AI](https://secern.ai) (구 씨유박스) | Backend Engineer, AI Lab. 영상 AI 보안과 인증 |
 
 ## 주요 작업
 
